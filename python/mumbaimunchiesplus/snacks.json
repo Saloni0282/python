@@ -1,0 +1,10 @@
+[
+    {
+        "name": "samosha",
+        "category": "junk",
+        "quantity": 36,
+        "price": 12.0,
+        "quantity_sold": 45,
+        "total_sales": 540.0
+    }
+]
